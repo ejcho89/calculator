@@ -1,2 +1,2 @@
 # calculator
-기술교육 - Github
+기술교육2 - Github
